@@ -1,1 +1,2 @@
-
+config: 
+  info: master barach,springcloud config/congigdev.yml version = 1
