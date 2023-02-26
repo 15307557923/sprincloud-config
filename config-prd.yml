@@ -1,1 +1,2 @@
-
+config:
+  info: master barach,sprincloud config/congig-prd.yml version = 1
